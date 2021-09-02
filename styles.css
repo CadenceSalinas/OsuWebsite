@@ -1,0 +1,36 @@
+html {
+    background-color: lavender;
+}
+
+body {
+    color: black;
+    background-color: white;
+    padding: 50px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    margin: 20px -20px 60px;
+    color: midnightblue;
+   /* padding: 70px;*/
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: midnightblue;
+}
+
+a:hover {
+    color:blue;
+    font-size: 19px;
+    background-color: lightgrey;
+}
+
+header, footer {
+    background-color: white;
+    text-align: center;    margin: -20px -20px -10px -20px;
+}
