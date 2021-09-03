@@ -26,8 +26,6 @@ a:visited {
 
 a:hover {
     color:blue;
-    font-size: 19px;
-    background-color: lightgrey;
 }
 
 header, footer {
