@@ -37,4 +37,6 @@ header, footer {
 
 footer {
 	font-family: 'Oxygen Mono', monospace;
+	text-align: left;
+	font-size: 10px;
 }
