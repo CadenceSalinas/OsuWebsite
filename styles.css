@@ -1,5 +1,4 @@
 html {
-		font-family: 'Bebas Neue', cursive;
     background-color: lavender;
 }
 
@@ -32,6 +31,7 @@ a:hover {
 }
 
 header, footer {
+		font-family: 'Bebas Neue', cursive;
     background-color: white;
     text-align: center;    
 		margin: -20px -20px -10px -20px;
