@@ -1,12 +1,13 @@
-html {
+/*html {
     background-color: #f0bdc6;
-}
+}*/
 
 body {
     color: #2f2f2f;
     background-color: #fffefc;
 		padding-left: 170px;
     margin: 0 auto;
+		overflow-x: hidden;
 }
 
 h1, h2, h3 {
