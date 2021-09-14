@@ -13,7 +13,7 @@ body {
 h1, h2, h3 {
     margin: 20px -20px 60px;
     color: #2f2f2f;
-   	padding-right: 70px;
+   	padding-right: 60px;
 }
 
 a:link {
@@ -39,6 +39,10 @@ footer {
 	text-align: left;
 	padding-left: 15px;
 	font-size: 10px;
+}
+
+header {
+	padding-right: 60px;
 }
 
 /* The sidebar menu */
