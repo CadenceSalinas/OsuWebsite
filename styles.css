@@ -53,6 +53,7 @@ hr {
 .infobox {
 	 border: 5px solid #fdadbb;
 	 padding: 10px;
+	 box-shadow: 5px 5px 5px rgb(63, 62, 62);
 }
 
 /* The sidebar menu */
