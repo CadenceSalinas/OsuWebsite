@@ -50,6 +50,11 @@ hr {
 	padding-right: 60px;
 }
 
+.test {
+	 border: 10px solid green;
+	 padding: 10px;
+}
+
 /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
