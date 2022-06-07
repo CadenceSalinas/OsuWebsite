@@ -1,4 +1,7 @@
 # OsuWebsite
-Refresher of HTML to prepare for Android Studio as well as a website on a popular rhythm game called "Osu!" created peppy. A school project for Advanced Java Topics in September 2021.
+Refresher of HTML to prepare for Android Studio.
 
-Enviorment used - Repl.it
+Project Name: HTML and CSS
+Class Name: Advanced Java Topics
+Date: August 27, 2021
+Assignment Description: Learn how to use HTML and CSS and how they work together. Created in Repl.it
